@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import useSavePlayer from '../hooks/useSavePlayer';
 
 export default class Player extends Component{
     constructor(props){
